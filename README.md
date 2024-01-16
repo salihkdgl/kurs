@@ -1,0 +1,2 @@
+# kurs
+patika kurs ödevi
