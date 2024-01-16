@@ -1,0 +1,24 @@
+<html>
+<head>
+    
+    <h1>SALİH KADIOĞLU</h1>
+    <!--hakkımda bölümü başlangıcı-->
+<b><p>hakkımda</p></b>
+
+<p>merhaba benim adım salih atatürk üniversitesinde bilgisayar programcılığı bölümünü okuyorum. bölümümü de çok fazla seviyorum</p>
+<!--hakkımda bölümü bitişi-->
+
+<!--hobilerimin ve fobilerimin başladığı yer -->
+<h3>hobilerim</h3>
+
+<p>bilgisayar ile yazılım dersi çalışıp site yapmak ayrıca bilgisayar oyunu oynamak</p>
+
+
+<h3>fobilerim</h3>
+
+<p>bilgisayarsız kalmak</p>
+<!--hobilerimin ve fobilerimin bittiği yer -->
+
+</head>
+
+</html>
